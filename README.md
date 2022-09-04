@@ -4,6 +4,7 @@ SIF (stray IP finder) produces a list of target's IPs that don't have a subdomai
 Sources
 ---
 ```
+* shodan
 * alienvault
 * hackertarget
 * threatcrowd
